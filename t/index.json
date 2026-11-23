@@ -1,0 +1,326 @@
+[
+ {
+  "file": "Lisboa_PT-RU_Especialidades-Médicas",
+  "clinic": "Lisboa",
+  "lang": "PT-RU",
+  "spec_label": "Especialidades Médicas",
+  "spec_pt": "Especialidades médicas",
+  "spec_ru": "Медицинские специальности",
+  "bytes": 74285
+ },
+ {
+  "file": "Lisboa_PT-RU_Cirurgia-Geral",
+  "clinic": "Lisboa",
+  "lang": "PT-RU",
+  "spec_label": "Cirurgia Geral",
+  "spec_pt": "Cirurgia Geral",
+  "spec_ru": "Общая хирургия",
+  "bytes": 80155
+ },
+ {
+  "file": "Lisboa_PT-RU_Dermatologia",
+  "clinic": "Lisboa",
+  "lang": "PT-RU",
+  "spec_label": "Dermatologia",
+  "spec_pt": "Dermatologia",
+  "spec_ru": "Дерматология",
+  "bytes": 79416
+ },
+ {
+  "file": "Lisboa_PT-RU_Dor-Reumatologia-Ortopedia",
+  "clinic": "Lisboa",
+  "lang": "PT-RU",
+  "spec_label": "Dor Reumatologia Ortopedia",
+  "spec_pt": "Reumatologia / Ortopedia Dor / Neurologia",
+  "spec_ru": "Ревматология / ортопедия Боль / неврология",
+  "bytes": 58776
+ },
+ {
+  "file": "Lisboa_PT-RU_Enfermagem",
+  "clinic": "Lisboa",
+  "lang": "PT-RU",
+  "spec_label": "Enfermagem",
+  "spec_pt": "Enfermagem",
+  "spec_ru": "Сестринские услуги",
+  "bytes": 69326
+ },
+ {
+  "file": "Lisboa_PT-RU_Ginecologia",
+  "clinic": "Lisboa",
+  "lang": "PT-RU",
+  "spec_label": "Ginecologia",
+  "spec_pt": "Ginecologia / Mamologia",
+  "spec_ru": "Гинекология / маммология",
+  "bytes": 73839
+ },
+ {
+  "file": "Lisboa_PT-RU_Oftalmologia",
+  "clinic": "Lisboa",
+  "lang": "PT-RU",
+  "spec_label": "Oftalmologia",
+  "spec_pt": "Oftalmologia",
+  "spec_ru": "Офтальмология",
+  "bytes": 53277
+ },
+ {
+  "file": "Lisboa_PT-RU_Otorrinolaringologia",
+  "clinic": "Lisboa",
+  "lang": "PT-RU",
+  "spec_label": "Otorrinolaringologia",
+  "spec_pt": "Otorrinolaringologia",
+  "spec_ru": "Оториноларингология",
+  "bytes": 50748
+ },
+ {
+  "file": "Lisboa_PT-RU_Urologia",
+  "clinic": "Lisboa",
+  "lang": "PT-RU",
+  "spec_label": "Urologia",
+  "spec_pt": "Urologia",
+  "spec_ru": "Урология",
+  "bytes": 50031
+ },
+ {
+  "file": "Lisboa_PT-EN_Especialidades-Médicas",
+  "clinic": "Lisboa",
+  "lang": "PT-EN",
+  "spec_label": "Especialidades Médicas",
+  "spec_pt": "Especialidades médicas",
+  "spec_ru": "Medical specialties",
+  "bytes": 74372
+ },
+ {
+  "file": "Lisboa_PT-EN_Cirurgia-Geral",
+  "clinic": "Lisboa",
+  "lang": "PT-EN",
+  "spec_label": "Cirurgia Geral",
+  "spec_pt": "Cirurgia Geral",
+  "spec_ru": "General surgery",
+  "bytes": 79834
+ },
+ {
+  "file": "Lisboa_PT-EN_Dermatologia",
+  "clinic": "Lisboa",
+  "lang": "PT-EN",
+  "spec_label": "Dermatologia",
+  "spec_pt": "Dermatologia",
+  "spec_ru": "Dermatology",
+  "bytes": 79197
+ },
+ {
+  "file": "Lisboa_PT-EN_Dor-Reumatologia-Ortopedia",
+  "clinic": "Lisboa",
+  "lang": "PT-EN",
+  "spec_label": "Dor Reumatologia Ortopedia",
+  "spec_pt": "Reumatologia / Ortopedia Dor / Neurologia",
+  "spec_ru": "Rheumatology / Orthopaedics Pain / Neurology",
+  "bytes": 58683
+ },
+ {
+  "file": "Lisboa_PT-EN_Enfermagem",
+  "clinic": "Lisboa",
+  "lang": "PT-EN",
+  "spec_label": "Enfermagem",
+  "spec_pt": "Enfermagem",
+  "spec_ru": "Nursing",
+  "bytes": 69209
+ },
+ {
+  "file": "Lisboa_PT-EN_Ginecologia",
+  "clinic": "Lisboa",
+  "lang": "PT-EN",
+  "spec_label": "Ginecologia",
+  "spec_pt": "Ginecologia / Mamologia",
+  "spec_ru": "Gynaecology / Breast",
+  "bytes": 73682
+ },
+ {
+  "file": "Lisboa_PT-EN_Oftalmologia",
+  "clinic": "Lisboa",
+  "lang": "PT-EN",
+  "spec_label": "Oftalmologia",
+  "spec_pt": "Oftalmologia",
+  "spec_ru": "Ophthalmology",
+  "bytes": 53235
+ },
+ {
+  "file": "Lisboa_PT-EN_Otorrinolaringologia",
+  "clinic": "Lisboa",
+  "lang": "PT-EN",
+  "spec_label": "Otorrinolaringologia",
+  "spec_pt": "Otorrinolaringologia",
+  "spec_ru": "ENT",
+  "bytes": 50688
+ },
+ {
+  "file": "Lisboa_PT-EN_Urologia",
+  "clinic": "Lisboa",
+  "lang": "PT-EN",
+  "spec_label": "Urologia",
+  "spec_pt": "Urologia",
+  "spec_ru": "Urology",
+  "bytes": 49942
+ },
+ {
+  "file": "Porto_PT-RU_Especialidades-Médicas",
+  "clinic": "Porto",
+  "lang": "PT-RU",
+  "spec_label": "Especialidades Médicas",
+  "spec_pt": "Especialidades médicas",
+  "spec_ru": "Медицинские специальности",
+  "bytes": 77569
+ },
+ {
+  "file": "Porto_PT-RU_Cirurgia-Geral",
+  "clinic": "Porto",
+  "lang": "PT-RU",
+  "spec_label": "Cirurgia Geral",
+  "spec_pt": "Cirurgia Geral",
+  "spec_ru": "Общая хирургия",
+  "bytes": 83478
+ },
+ {
+  "file": "Porto_PT-RU_Dermatologia",
+  "clinic": "Porto",
+  "lang": "PT-RU",
+  "spec_label": "Dermatologia",
+  "spec_pt": "Dermatologia",
+  "spec_ru": "Дерматология",
+  "bytes": 82874
+ },
+ {
+  "file": "Porto_PT-RU_Dor-Reumatologia-Ortopedia",
+  "clinic": "Porto",
+  "lang": "PT-RU",
+  "spec_label": "Dor Reumatologia Ortopedia",
+  "spec_pt": "Reumatologia / Ortopedia Dor / Neurologia",
+  "spec_ru": "Ревматология / ортопедия Боль / неврология",
+  "bytes": 62060
+ },
+ {
+  "file": "Porto_PT-RU_Enfermagem",
+  "clinic": "Porto",
+  "lang": "PT-RU",
+  "spec_label": "Enfermagem",
+  "spec_pt": "Enfermagem",
+  "spec_ru": "Сестринские услуги",
+  "bytes": 72610
+ },
+ {
+  "file": "Porto_PT-RU_Ginecologia-Porto",
+  "clinic": "Porto",
+  "lang": "PT-RU",
+  "spec_label": "Ginecologia Porto",
+  "spec_pt": "Ginecologia / Mamologia",
+  "spec_ru": "Гинекология / маммология",
+  "bytes": 77116
+ },
+ {
+  "file": "Porto_PT-RU_Oftalmologia",
+  "clinic": "Porto",
+  "lang": "PT-RU",
+  "spec_label": "Oftalmologia",
+  "spec_pt": "Oftalmologia",
+  "spec_ru": "Офтальмология",
+  "bytes": 56561
+ },
+ {
+  "file": "Porto_PT-RU_Otorrinolaringologia",
+  "clinic": "Porto",
+  "lang": "PT-RU",
+  "spec_label": "Otorrinolaringologia",
+  "spec_pt": "Otorrinolaringologia",
+  "spec_ru": "Оториноларингология",
+  "bytes": 54032
+ },
+ {
+  "file": "Porto_PT-RU_Urologia",
+  "clinic": "Porto",
+  "lang": "PT-RU",
+  "spec_label": "Urologia",
+  "spec_pt": "Urologia",
+  "spec_ru": "Урология",
+  "bytes": 53328
+ },
+ {
+  "file": "Porto_PT-EN_Especialidades-Médicas",
+  "clinic": "Porto",
+  "lang": "PT-EN",
+  "spec_label": "Especialidades Médicas",
+  "spec_pt": "Especialidades médicas",
+  "spec_ru": "Medical specialties",
+  "bytes": 77619
+ },
+ {
+  "file": "Porto_PT-EN_Cirurgia-Geral",
+  "clinic": "Porto",
+  "lang": "PT-EN",
+  "spec_label": "Cirurgia Geral",
+  "spec_pt": "Cirurgia Geral",
+  "spec_ru": "General surgery",
+  "bytes": 83137
+ },
+ {
+  "file": "Porto_PT-EN_Dermatologia",
+  "clinic": "Porto",
+  "lang": "PT-EN",
+  "spec_label": "Dermatologia",
+  "spec_pt": "Dermatologia",
+  "spec_ru": "Dermatology",
+  "bytes": 82588
+ },
+ {
+  "file": "Porto_PT-EN_Dor-Reumatologia-Ortopedia",
+  "clinic": "Porto",
+  "lang": "PT-EN",
+  "spec_label": "Dor Reumatologia Ortopedia",
+  "spec_pt": "Reumatologia / Ortopedia Dor / Neurologia",
+  "spec_ru": "Rheumatology / Orthopaedics Pain / Neurology",
+  "bytes": 61967
+ },
+ {
+  "file": "Porto_PT-EN_Enfermagem",
+  "clinic": "Porto",
+  "lang": "PT-EN",
+  "spec_label": "Enfermagem",
+  "spec_pt": "Enfermagem",
+  "spec_ru": "Nursing",
+  "bytes": 72493
+ },
+ {
+  "file": "Porto_PT-EN_Ginecologia-Porto",
+  "clinic": "Porto",
+  "lang": "PT-EN",
+  "spec_label": "Ginecologia Porto",
+  "spec_pt": "Ginecologia / Mamologia",
+  "spec_ru": "Gynaecology / Breast",
+  "bytes": 76937
+ },
+ {
+  "file": "Porto_PT-EN_Oftalmologia",
+  "clinic": "Porto",
+  "lang": "PT-EN",
+  "spec_label": "Oftalmologia",
+  "spec_pt": "Oftalmologia",
+  "spec_ru": "Ophthalmology",
+  "bytes": 56519
+ },
+ {
+  "file": "Porto_PT-EN_Otorrinolaringologia",
+  "clinic": "Porto",
+  "lang": "PT-EN",
+  "spec_label": "Otorrinolaringologia",
+  "spec_pt": "Otorrinolaringologia",
+  "spec_ru": "ENT",
+  "bytes": 53972
+ },
+ {
+  "file": "Porto_PT-EN_Urologia",
+  "clinic": "Porto",
+  "lang": "PT-EN",
+  "spec_label": "Urologia",
+  "spec_pt": "Urologia",
+  "spec_ru": "Urology",
+  "bytes": 53239
+ }
+]
